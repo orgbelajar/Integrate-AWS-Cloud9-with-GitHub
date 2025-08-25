@@ -48,6 +48,11 @@ Kode latihan python untuk kelas IDJAK127
    ```
    ssh git@github.com
    ```
+   expected output:
+   ```
+   Hi zavfake! You've successfully authenticated, but GitHub does not provide shell access.
+   ```
+   **If you are not successfully authenticated, repeat the step from begining. **
 
 1. Create **.gitignore** file and fill with the code below. Remember: We shouldn't share the private key to everyone. Keeping the key secret on our machine is a must!!
    ```
